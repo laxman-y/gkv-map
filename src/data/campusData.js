@@ -184,6 +184,7 @@ export const campusData = {
             { from: 'e126', to: 'e122', distance: 25 },
             { from: 'e224', to: 'e225', distance: 25 },
             { from: 'e225', to: 'e212', distance: 25 },
+              { from: 'e215', to: 'e217', distance: 25 },
             { from: 'e222', to: 'e219', distance: 25 }
           ]
         },
